@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Дабро пажалават на тидесофт
 
 You can use the [editor on GitHub](https://github.com/TideSoft-R/TideSoft-R.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
